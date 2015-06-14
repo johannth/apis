@@ -41,7 +41,7 @@
     "underscore": "~1.5.2",
     "moment": "~2.1.0",
     "xml2js": "~0.2.8",
-    "request": "~2.27.0",
+    "request": "~2.57.0",
     "redis": "~0.8.4",
     "xregexp": "~2.0.0",
     "cheerio": "~0.12.4",

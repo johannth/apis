@@ -7,7 +7,7 @@ The code that is running the service is open source under the [MIT licence](http
 
 **Don't hesitate to lend a hand - All knowledge and help is much appreciated!**
 
-##Maintainers
+## Maintainers
 
 [@kristjanmik](https://github.com/kristjanmik/)
 
@@ -16,6 +16,13 @@ The code that is running the service is open source under the [MIT licence](http
 [@koddsson](https://github.com/koddsson/)
 
 [@MiniGod](https://github.com/minigod/)
+
+## Installation
+
+```
+npm install
+node server.js # Service should be running at port 3100
+```
 
 ## Tests
 
@@ -58,4 +65,4 @@ To ensure close to zero downtime, the plan is to start up more workers/servers a
 - Information on how to handle requests and responses can be found [here](http://expressjs.com/api.html).
 - It is much appreciated that endpoints are thoroughly documented and written with care.
 - Issues are managed by the [GitHub issue tracker](https://github.com/kristjanmik/apis/issues).
-- Have fun and eat some cake! (preferrably chocolate, but whatever floats your boat)
+- Have fun and eat some cake! (preferably chocolate, but whatever floats your boat)
